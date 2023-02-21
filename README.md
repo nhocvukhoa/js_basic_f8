@@ -10,6 +10,7 @@
 1. Section 1: Số và làm việc với số
 ### 6. Làm việc với mảng
 1. Section 1: Mảng cơ bản
+2. Section 2: Mảng nâng cao
 ### 7. Lệnh rẽ nhánh, toán tử 3 ngôi
 ### 8. Vòng lặp
 ### 9. Làm việc với mảng II
