@@ -5,3 +5,5 @@
 4. Section 4: Các loại hàm
 ### 4. Làm việc với chuỗi
 ```
+1. Section 1: Chuỗi cơ bản
+2. Section 2: Chuỗi nâng cao
