@@ -13,6 +13,7 @@
 2. Section 2: Mảng nâng cao
 ### 7. Làm việc với object
 1. Section 1: Object là gì?
+2. Section 2: Object constructor
 ### 8. Lệnh rẽ nhánh, toán tử 3 ngôi
 ### 9. Vòng lặp
 ### 10. Làm việc với mảng II
