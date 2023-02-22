@@ -7,11 +7,16 @@ function User (firstName, lastName, avatar) {
     }
 }
 
+User.prototype.className = 'F8';
+User.prototype.getClassName = function() {
+    return this.className;
+}
+
 var author = new User('Khoa', 'Nguyễn', 'Avatar');
 var user = new User('Anh', 'Nguyễn', 'Avatar');
 
 author.title = 'em hỏi gì';
 user.title = 'em hỏi cái kia';
 
-console.log(author);
+console.log(author.getName());
 console.log(user);
