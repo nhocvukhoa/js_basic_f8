@@ -11,9 +11,10 @@
 ### 6. Làm việc với mảng
 1. Section 1: Mảng cơ bản
 2. Section 2: Mảng nâng cao
-### 7. Lệnh rẽ nhánh, toán tử 3 ngôi
-### 8. Vòng lặp
-### 9. Làm việc với mảng II
-### 10. Callback
-### 11. HTML DOM
-### 12. JSON, Fetch, Postman
+### 7. Làm việc với object
+### 8. Lệnh rẽ nhánh, toán tử 3 ngôi
+### 9. Vòng lặp
+### 10. Làm việc với mảng II
+### 11. Callback
+### 12. HTML DOM
+### 13. JSON, Fetch, Postman
