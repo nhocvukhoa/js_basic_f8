@@ -18,7 +18,7 @@
 4. Section 4: Đối tượng Math
 ### 8. Toán tử 3 ngôi
 1. Section 1: Toán tử ba ngôi
-### 9. Vòng lặp
+### 9. Các loại vòng lặp
 ### 10. Làm việc với mảng II
 ### 11. Callback
 ### 12. HTML DOM
