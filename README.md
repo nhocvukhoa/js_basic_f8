@@ -24,6 +24,7 @@
 3. Section 3: For of loop
 4. Section 4: While loop
 5. Section 5: Do while loop
+6. Section 6: Break and continue
 ### 10. Làm việc với mảng II
 ### 11. Callback
 ### 12. HTML DOM
