@@ -28,6 +28,7 @@
 7. Section 7: Nested loop
 ### 10. Làm việc với mảng II
 1. Section 1: Các method làm việc với mảng: foreach, find, filter, every, some
+2. Section 2: Array map() method
 ### 11. Callback
 ### 12. HTML DOM
 ### 13. JSON, Fetch, Postman
