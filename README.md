@@ -27,7 +27,7 @@
 6. Section 6: Break and continue
 7. Section 7: Nested loop
 ### 10. Làm việc với mảng II
-1. Section 1: Làm việc với mảng phần II
+1. Section 1: Các method làm việc với mảng: foreach, find, filter, every, some
 ### 11. Callback
 ### 12. HTML DOM
 ### 13. JSON, Fetch, Postman
