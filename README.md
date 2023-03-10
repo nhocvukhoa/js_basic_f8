@@ -30,3 +30,7 @@
 ### 11. Callback
 ### 12. HTML DOM
 ### 13. JSON, Fetch, Postman
+1. JSON là gì?
+2. Promise (sync, async)
+3. Promise (pain)
+### 14. 
