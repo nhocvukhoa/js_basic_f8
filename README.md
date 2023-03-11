@@ -33,4 +33,5 @@
 1. JSON là gì?
 2. Promise (sync, async)
 3. Promise (pain)
+4. Promise (concept)
 ### 14. 
