@@ -34,4 +34,5 @@
 2. Promise (sync, async)
 3. Promise (pain)
 4. Promise (concept)
+5. Promise (chain)
 ### 14. 
